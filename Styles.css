@@ -1,0 +1,30 @@
+
+.ES{
+    text-align: center;
+}
+.ES a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background: rgb(119, 0, 255);
+    padding: 4px 20px;
+    border-radius: 30px;
+    font-size: 30px;
+    margin: 10px;
+}
+main p{
+    font-size:larger;
+    padding: 20px,20px,20px,20px,;
+    color: rgb(0, 0, 0);
+
+}
+nav a {
+    padding-left: 35px ;
+    text-decoration:none;
+    color: blue;
+    text-shadow: 2px 5px 10px;
+}
+nav a:hover{
+    color:white(255,254,254);
+    font-size: 17px;
+    font-weight: bold;
+}
